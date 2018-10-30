@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a97e20df-0d4d-470c-ab12-bd50a2113c6c" name="Default" comment="">
+    <list default="true" id="64cc8f1b-1f32-479c-96af-b6cefdd5937a" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/../ InheritanceChallenge1/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ InheritanceChallenge1/src/Car.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ InheritanceChallenge1/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ InheritanceChallenge1/src/Outlander.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ InheritanceChallenge1/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BurgerApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BurgerApp/src/com/KhangMai/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BurgerApp/src/com/KhangMai/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BurgerApp/src/com/KhangMai/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_PC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_PC/src/com/KhangMai/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_PC/src/com/KhangMai/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_PC/src/com/KhangMai/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_PC/src/com/KhangMai/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_PC/src/com/KhangMai/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition_PC/src/com/KhangMai/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../InheritancePart1/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../InheritancePart1/src/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../InheritancePart1/src/Dog.java" afterDir="false" />
@@ -28,7 +17,7 @@
       <change afterPath="$PROJECT_DIR$/../InheritancePart1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BankAccount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccount/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassSample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassSample/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../VIPCustomer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VIPCustomer/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,12 +29,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -53,8 +51,8 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="26" />
+            <state relative-caret-position="216">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -74,8 +72,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/Car.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -91,7 +89,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="355" />
     <option name="y" value="34" />
-    <option name="width" value="1370" />
+    <option name="width" value="1380" />
     <option name="height" value="908" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -103,16 +101,17 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ClassSample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClassSample" type="462c0819:PsiDirectoryNode" />
+              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Composition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ClassSample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClassSample" type="462c0819:PsiDirectoryNode" />
+              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Composition" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -120,7 +119,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,11 +144,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ClassSample" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -192,36 +185,23 @@
       <properties />
       <listeners />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a97e20df-0d4d-470c-ab12-bd50a2113c6c" name="Default" comment="" />
-      <created>1539847299272</created>
+      <changelist id="64cc8f1b-1f32-479c-96af-b6cefdd5937a" name="Default" comment="" />
+      <created>1540784692732</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539847299272</updated>
-      <workItem from="1539847300747" duration="4651000" />
-      <workItem from="1540179175728" duration="235000" />
-      <workItem from="1540193682907" duration="87000" />
-      <workItem from="1540193785670" duration="16000" />
-      <workItem from="1540194140365" duration="23000" />
-      <workItem from="1540344639125" duration="26000" />
-      <workItem from="1540353065085" duration="17000" />
-      <workItem from="1540353192758" duration="54000" />
-      <workItem from="1540847512274" duration="16000" />
+      <updated>1540784692732</updated>
+      <workItem from="1540784694390" duration="380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5125000" />
+    <option name="totallyTimeSpent" value="380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="950" extended-state="6" />
@@ -232,15 +212,15 @@
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32897863" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="right" id="Run" order="9" weight="0.27522936" />
+      <window_info anchor="right" id="Run" order="9" weight="0.27571428" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22558014" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.16783594" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -248,11 +228,11 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Messages" order="0" />
     </layout>
@@ -266,127 +246,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="26" />
+        <state relative-caret-position="216">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
