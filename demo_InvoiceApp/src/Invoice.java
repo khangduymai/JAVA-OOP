@@ -1,0 +1,27 @@
+import java.util.ArrayList;
+
+public class Invoice {
+
+    private ArrayList<LineItem> lineItems;
+
+    public Invoice(){
+        lineItems = new ArrayList<>();
+    }
+
+    public void addItem(LineItem lineItem){
+
+        this.lineItems.add(lineItem);
+    }
+
+    public ArrayList<LineItem> getLineItems(){
+        return lineItems;
+    }
+
+    public double getInvoiceTotal(){
+        double invoiceTotal = 0;
+        for(LineItem lineItem : this.lineItems){
+            invoiceTotal += lineItem.getTotal();
+        }
+        return invoiceTotal;
+    }
+}
