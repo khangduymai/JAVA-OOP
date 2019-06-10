@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b325f20-1560-4d5e-b6d6-28475cf3fb6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Abstract_And_Interface_Challenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_And_Interface_Challenge/src/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_And_Interface_Challenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_And_Interface_Challenge/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_And_Interface_Challenge/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_And_Interface_Challenge/src/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/CreatingLinkedStructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/src/MyAbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingLinkedStructure/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_EmployeeAndProducWorker/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_EmployeeAndProducWorker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_EmployeeAndProducWorker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_EmployeeAndProducWorker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_EmployeeAndProducWorker/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_EmployeeAndProducWorker/Inheritance_EmployeeAndProducWorker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_EmployeeAndProducWorker/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_EmployeeAndProducWorker/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance_EmployeeAndProducWorker/src/ProductionWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_Challenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_Challenge/src/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_Challenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_Challenge/src/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_Challenge/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_LinkedList/src/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_LinkedList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_LinkedList/src/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ InheritanceChallenge1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ InheritanceChallenge1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritancePart1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritancePart1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritancePart1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritancePart1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_InvoiceApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_InvoiceApp/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Bird.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="51" selection-start-column="51" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CanFly.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Parrot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#66#67#0" expanded="true" />
+                <element signature="e#93#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Penguin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Penguin.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Dog.java" />
+        <option value="$PROJECT_DIR$/src/Animal.java" />
+        <option value="$PROJECT_DIR$/src/Parrot.java" />
+        <option value="$PROJECT_DIR$/src/CanFly.java" />
+        <option value="$PROJECT_DIR$/src/Bird.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abstraction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abstraction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Abstraction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556410880248" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Abstraction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b325f20-1560-4d5e-b6d6-28475cf3fb6c" name="Default Changelist" comment="" />
+      <created>1556399991840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556399991840</updated>
+      <workItem from="1556399995505" duration="5815000" />
+      <workItem from="1556570466256" duration="1790000" />
+      <workItem from="1556573358476" duration="1822000" />
+      <workItem from="1556658293444" duration="355000" />
+      <workItem from="1556756220486" duration="1148000" />
+      <workItem from="1556903445087" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10977000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49927008" visible="true" weight="0.1453958" />
+      <window_info id="Structure" order="1" sideWeight="0.5007299" side_tool="true" weight="0.28093645" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49927008" visible="true" weight="0.13974153" />
+      <window_info id="Structure" order="1" sideWeight="0.5007299" side_tool="true" weight="0.28093645" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CanFly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#93#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Penguin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaf68299-78ae-487d-92bc-8327205194b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_LinkedList/src/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_LinkedList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface_LinkedList/src/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ InheritanceChallenge1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ InheritanceChallenge1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritancePart1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritancePart1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritancePart1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritancePart1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InvoiceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InvoiceApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Invoice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -62,7 +75,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/InvoiceApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
+            <state relative-caret-position="555">
               <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
             </state>
           </provider>
@@ -140,6 +153,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551840094197" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -208,17 +222,18 @@
       <workItem from="1551565302414" duration="803000" />
       <workItem from="1551639004735" duration="12182000" />
       <workItem from="1551902286962" duration="1033000" />
+      <workItem from="1555904240406" duration="56000" />
+      <workItem from="1555904386275" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23703000" />
+    <option name="totallyTimeSpent" value="23761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34814218" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35945073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,17 +282,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProductApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LineItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LineItemApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -290,28 +312,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Invoice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LineItemApp.java">
+    <entry file="file://$PROJECT_DIR$/src/ProductApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LineItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="165">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InvoiceApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
+        <state relative-caret-position="555">
           <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
         </state>
       </provider>
